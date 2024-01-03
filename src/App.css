@@ -6,6 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+.selectSpace__control {
+  height: 10px;
+  min-height: 20px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
